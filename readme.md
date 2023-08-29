@@ -1,4 +1,4 @@
-# Inditex technical test
+# Zara technical test
 
 
 
